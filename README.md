@@ -510,7 +510,7 @@ To examine the addressing modes, we'll use the MOV instruction, which copies a v
 
 The source and/or destination operand is specified using one of the addressing modes.
 
-The instruction-set/addressing.asm file contains example usage of the various addressing modes.
+The [instruction-set/addressing.asm file](./instruction-set/addressing.asm) contains example usage of the various addressing modes.
 
 ### Register Operands
 
